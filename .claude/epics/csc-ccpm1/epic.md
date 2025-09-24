@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-24T09:43:56Z
 progress: 0%
 prd: .claude/prds/csc-ccpm1.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/Enoshraju7-prog/csc-ccpm1/issues/1
 ---
 
 # Epic: Content Supply Chain with CCPM (CSC-CCPM1)
@@ -112,23 +112,21 @@ Build an AI-powered pharmaceutical marketing automation system using LangGraph R
 **Compliance Testing**: MLR validation accuracy against known pharmaceutical content
 
 ## Tasks Created
-
-- [ ] 001.md - Project Foundation Setup (parallel: true)
-- [ ] 002.md - Mock Services Framework (parallel: true)
-- [ ] 003.md - A2A Protocol Implementation (parallel: false)
-- [ ] 004.md - Orchestrator Agent Core (parallel: false)
-- [ ] 005.md - Market Intelligence Agent (parallel: true)
-- [ ] 006.md - Content Generation Supervisor (parallel: true)
-- [ ] 007.md - MLR Compliance Agent (parallel: true)
-- [ ] 008.md - Salesforce Integration Agent (parallel: true)
-- [ ] 009.md - End-to-End Workflow Integration (parallel: false)
-- [ ] 010.md - Testing, Validation & Documentation (parallel: false)
+- [ ] #2 - Project Foundation Setup (parallel: true)
+- [ ] #3 - Mock Services Framework (parallel: true) 
+- [ ] #4 - A2A Protocol Implementation (parallel: false)
+- [ ] #5 - Salesforce Integration Agent (parallel: true)
+- [ ] #6 - Orchestrator Agent Core (parallel: false)
+- [ ] #7 - End-to-End Workflow Integration (parallel: false)
+- [ ] #8 - Testing, Validation & Documentation (parallel: false)
+- [ ] #9 - Market Intelligence Agent (parallel: true)
+- [ ] #10 - Content Generation Supervisor (parallel: true)
+- [ ] #11 - MLR Compliance Agent (parallel: true)
 
 **Total tasks**: 10
 **Parallel tasks**: 6 (can run simultaneously once dependencies are met)
 **Sequential tasks**: 4 (critical path items)
 **Estimated total effort**: 194-248 hours (~6-7 months with single developer)
-
 ## Dependencies
 
 ### External Dependencies
